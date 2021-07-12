@@ -1,0 +1,30 @@
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\bin\Debug\QuestionTwo.exe.config
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\bin\Debug\QuestionTwo.exe
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\bin\Debug\QuestionTwo.pdb
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\AT2Project.csprojAssemblyReference.cache
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\QuestionTwo.MyBooksForm.resources
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\QuestionTwo.Properties.Resources.resources
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\AT2Project.csproj.GenerateResource.cache
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\AT2Project.csproj.CoreCompileInputs.cache
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\QuestionTwo.exe
+C:\Users\30038637\Desktop\30038637AssessmentTask1.2 (1)\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\QuestionTwo.pdb
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\AT2Project.csprojAssemblyReference.cache
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\AT2Project.MegaBooksForm.resources
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\QuestionTwo.Properties.Resources.resources
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\AT2Project.csproj.GenerateResource.cache
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\AT2Project.csproj.CoreCompileInputs.cache
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\QuestionTwo.exe
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\obj\Debug\QuestionTwo.pdb
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\bin\Debug\QuestionTwo.exe.config
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\bin\Debug\QuestionTwo.exe
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AssessmentTask1.2\QuestionTwo\bin\Debug\QuestionTwo.pdb
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\bin\Debug\QuestionTwo.exe.config
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\bin\Debug\QuestionTwo.exe
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\bin\Debug\QuestionTwo.pdb
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\obj\Debug\AT2Project.csprojAssemblyReference.cache
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\obj\Debug\AT2Project.MegaBooksForm.resources
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\obj\Debug\QuestionTwo.Properties.Resources.resources
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\obj\Debug\AT2Project.csproj.GenerateResource.cache
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\obj\Debug\AT2Project.csproj.CoreCompileInputs.cache
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\obj\Debug\QuestionTwo.exe
+C:\Users\30038637\Desktop\Practical\30038637AT2\30038637AT1.2\AT2Project\obj\Debug\QuestionTwo.pdb
